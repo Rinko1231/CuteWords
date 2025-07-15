@@ -1,8 +1,4 @@
-# CuteWords
-A simple mod that automatically replaces parts of player chat when matching replacement rules defined in the config file.
+L_Ender's Cataclysm has incredibly cool weapons. However, only a few of  weapon skill parameters can be modified in Cataclysm’s configuration file. And the weapon skills' damage, charging time and so on sometimes are not satisfiying enough. 
 
-There are two config files: 'cuteWords.toml' matches case, while 'cuteWordsCaseInsensitive.toml' does not.
+This mod allows you to modify The Incinerator and some other weapons further through configuration files IncineratorsTryHard.toml.
 
-Wildcards `*` and `?` are supported. If you don't want to use wildcards, you can use the escape character `\`.
-
-Supports `/reload` for hot-reloading.
